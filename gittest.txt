@@ -1,1 +1,1 @@
-Det här är en övning för att lära sig git.
+Det hÃ¤r Ã¤r en Ã¶vning fÃ¶r att lÃ¤ra sig git. Nu lÃ¤gger jag till Ã¤ndringar pÃ¥ webben.
